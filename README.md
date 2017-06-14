@@ -1,6 +1,10 @@
 # New-CisVMPractice
 Basic framework to easily get started with Get-CisService to access to the vCenter 6.5 API
 
+Supporting Blog Post:
+http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/
+
+
 ```
 .SYNOPSIS
 Connects to vCenter 6.5 and creates a Virtual Machine using the vSphere Automation SDK API.
