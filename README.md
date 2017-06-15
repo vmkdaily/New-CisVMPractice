@@ -102,7 +102,6 @@ vm-775
 #This example removed the function from memory and then reloaded it by dot sourcing it.
 #You might do this if you made changes to the script.
 #Then, we deployed a VM taking all defaults.
-#Finally, we show what the VM looks like with a regular Get-VM
 
 
 .INPUTS
