@@ -109,3 +109,14 @@ vm-775
 .OUTPUTS
 VMware.VimAutomation.Cis.Core.Types.V1.ID
 ```
+
+#### SYNTAX
+```
+
+New-CisVMPractice -Name <string> [-Computer <string>] [-GuestId <string>] [-Datastore <psobject>] [<CommonParameters>]
+
+New-CisVMPractice -Computer <string> -PathBasedCredential <string> [-Name <string>] [-GuestId <string>] [-Datastore <psobject>] [<CommonParameters>]
+
+New-CisVMPractice -Computer <string> -Credential <pscredential> [-Name <string>] [-GuestId <string>] [-Datastore <psobject>] [<CommonParameters>]
+
+```
